@@ -1,0 +1,32 @@
+# use glob syntax.
+syntax: glob
+
+mysql-connector-python*
+*.elc
+*.pyc
+*.o
+*~
+*.bak
+output*
+*.exe
+dist*
+build
+Setup.7z
+*.log
+raw
+input
+\.orig\..*$
+\.orig$
+\.chg\..*$
+\.rej$
+\.conflict\~$
+source
+avatars
+avatars*
+nbproject
+requirements*
+post_*
+ForumMigration.zip
+shmuz*
+data
+*.zip
