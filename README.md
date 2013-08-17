@@ -1,6 +1,6 @@
 jsoup-sample-application
 ========================
 
-The tool to convert Currency to string in Russian/Ukrainian/English languages
+The web scraping sample application with jsoup library
 
 [![Screen short](https://raw.github.com/javadev/jsoup-sample-application/master/jsoup-sample.png)](https://github.com/javadev/jsoup-sample-application/)
